@@ -1,5 +1,5 @@
 # SeaMiner
-A semanitc web semplification attempt
+A semanitc web simplification attempt
 
 ## Usage
 
