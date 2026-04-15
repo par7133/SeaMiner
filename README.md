@@ -7,7 +7,7 @@ seastats.php - Displays some data stats regarding a website/website account.<br>
 seawriter-123sample.php - An example to write last atomic updates in the *semantic* format.<br>
 seaminer.php - Read last atomic update in the *semantic* format.<br>
 
-eg:<br>
+Eg:<br>
 
 // simple query by date<br>
 if (seastats.php?op=checkdateforupd&date=20250707&account=root > 0) then<br>
