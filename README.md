@@ -3,7 +3,7 @@ A semantic web simplification attempt.
 
 ## Usage
 
-seastats.php - displays some data stats regarding a website account.<br>
+seastats.php - Displays some data stats regarding a website/website account.<br>
 seawriter-123sample.php - An example to write last atomic updates in the *semantic* format.<br>
 seaminer.php - Read last atomic update in the *semantic* format.<br>
 
