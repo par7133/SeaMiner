@@ -26,8 +26,8 @@ if (seastats.php?date=$date&account=root > 0) then<br>
    seaminer.php?account=root&date=$date<br>
 }<br>
 
-// query by last month
-$date = (seastats.php?op=lastmonth&account=root)
-if (seastats.php?date=$date&account=root > 0) then
-   seaminer.php?account=root&date=$date
-}
+// query by last month<br>
+$date = (seastats.php?op=lastmonth&account=root)<br>
+if (seastats.php?date=$date&account=root > 0) then<br>
+   seaminer.php?account=root&date=$date<br>
+}<br>
